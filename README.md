@@ -228,6 +228,6 @@ MIT License - Feel free to use for learning or portfolio purposes.
 ## 👨‍💻 Author
 
 **Your Name**  
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.dev)
+[GitHub](https://github.com/Gal1h) • [LinkedIn](https://linkedin.com/in/bagus-galih-jatmiko) • [Portfolio](https://viyson.my.id)
 
 > Built as a demonstration of full-stack systems programming: Rust async networking, cross-platform native APIs, React Native gesture systems, and Tauri desktop development.
