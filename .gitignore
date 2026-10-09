@@ -1,0 +1,61 @@
+# VirGO-Demo - Portfolio Demo Folder
+# This folder contains documentation and code snippets only
+# No node_modules, build artifacts, or sensitive files
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+*.local
+
+# Tauri build artifacts
+src-tauri/target/
+src-tauri/*.d
+src-tauri/*.so
+src-tauri/*.dylib
+src-tauri/*.lib
+
+# Expo/React Native
+.expo/
+.expo-shared/
+dist/
+web-build/
+*.apk
+*.ipa
+*.aab
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.tgz
+.cache/
+.parcel-cache/
+.eslintcache
